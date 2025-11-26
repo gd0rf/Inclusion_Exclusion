@@ -1,12 +1,12 @@
-#Inclusion–Exclusion Game
+# Inclusion–Exclusion Game
 
 This project is a terminal-based math game themed around Jigsaw. The player is given two randomly generated sets and must answer questions involving set operations and discrete mathematics. Wrong answers reduce health; correct answers increase confidence.
 
-#Features
+## Features
 
 Random generation of Set A and Set B
 
-#Questions on:
+## Questions on:
 
 Union
 
@@ -18,7 +18,7 @@ Onto functions (via inclusion–exclusion)
 
 Derangements
 
-#Two difficulty tiers:
+## Two difficulty tiers:
 
 First three questions: numeric answers
 
